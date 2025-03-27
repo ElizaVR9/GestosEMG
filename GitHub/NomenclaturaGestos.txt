@@ -1,0 +1,7 @@
+A# : Abrir mano
+An#: Dedo anular
+C#: Cerrar mano
+Co#: Dedo corazón
+I#: Dedo índice
+M#: Dedo meñique
+P#: Dedo pulgar
